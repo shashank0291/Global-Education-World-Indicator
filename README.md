@@ -1,4 +1,4 @@
-# Data-Storytelling
+# Global Education
 
 Introduction
 World Learning accepts everybody has the power to a high-quality instruction. Education is broadly acknowledged to be a crucial asset, both for people and social orders. In most nations, fundamental instruction these days not seen right, but for governments to ensure that they meet essential education on a regular basis, while individuals are also mandated by law to carry out instruction to a certain critical standard. 
