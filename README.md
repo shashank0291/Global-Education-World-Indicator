@@ -77,7 +77,7 @@ Goal: By 2030 both women and men should have equal access to accessible and qual
 References and Citations
 The visualization discussed above are also discussed in different other data sites. There are significant sources of cross-country education achievement results.
 
-Below are some of the references from where I have taken the data sources and also refer the story telling part.
+Below are some of the references from where I have taken the data sources and also refer the story telling part:
 
 Baroolee- http://www.barrolee.com/Lee_Lee_LRdata_dn.htm 
 OurWorldindata- https://ourworldindata.org/ 
