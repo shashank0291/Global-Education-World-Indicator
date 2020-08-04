@@ -17,7 +17,7 @@ The lowest African countries are all below 40%.
 
 ![image](https://github.com/shashank0291/Data-Storytelling/blob/master/images/literacy-rate-by-country.png)
 
-Evolution of Literate and illiterate over the world
+Evolution of Literate and Illiterate over the world
 Although the earliest forms of written correspondence date back far beyond, literacy remained for quite a long time an exceptionally limited innovation. It was only until the Middle Ages that book production began to develop and literacy gradually began to become important in the Western World among the general population.
 The visualization below describes global literacy projections for the period 1950 to 2014. As we can see, literacy rates rose steadily but very gradually. And the growth rate only climbed when basic education grew to become a global priority.
 
