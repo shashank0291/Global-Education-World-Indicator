@@ -73,7 +73,6 @@ Goal: By 2030 both women and men should have equal access to accessible and qual
 
 ![image](https://github.com/shashank0291/Data-Storytelling/blob/master/images/Gross_enrollment_ratio.png)
 
-
 References and Citations
 The visualization discussed above are also discussed in different other data sites. There are significant sources of cross-country education achievement results.
 
