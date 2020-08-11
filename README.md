@@ -40,6 +40,7 @@ Data below ranges from 2006-2014.
 ![image](https://github.com/shashank0291/Data-Storytelling/blob/master/images/no_outofschool_children.png)
 
 Years of Schooling
+
 Overview
 Another common indicator of the standard of education for a population is the total number of years spent in school. It is a valuable metric, because it enables accomplishment to be aggregated across educational levels. 
 Average years of a population's education are usually determined from data on the population distribution by age group and the highest level of education obtained in a given year and the official period of each educational level. 
